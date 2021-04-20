@@ -15,7 +15,7 @@ public class Instructor
     extends Auditable
 {
     /**
-     * The primary key (long) of the instructor table
+     * The primary key (long) of the instructor table xg
      */
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
